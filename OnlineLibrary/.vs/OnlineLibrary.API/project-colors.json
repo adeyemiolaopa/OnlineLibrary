@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "827ede3b-0bc9-474a-9f5e-60daa649e21e": {
+      "ProjectGuid": "827ede3b-0bc9-474a-9f5e-60daa649e21e",
+      "DisplayName": "OnlineLibrary.Application",
+      "ColorIndex": 0
+    },
+    "355f7135-3e18-4ca3-b4e0-16b3a9b690a3": {
+      "ProjectGuid": "355f7135-3e18-4ca3-b4e0-16b3a9b690a3",
+      "DisplayName": "OnlineLibrary.Infrastructure",
+      "ColorIndex": 1
+    },
+    "1535d667-309b-4d66-a5c1-27ec4337a29f": {
+      "ProjectGuid": "1535d667-309b-4d66-a5c1-27ec4337a29f",
+      "DisplayName": "OnlineLibrary.Test",
+      "ColorIndex": 2
+    },
+    "71e120a7-1736-45b0-804e-369d2e38239f": {
+      "ProjectGuid": "71e120a7-1736-45b0-804e-369d2e38239f",
+      "DisplayName": "OnlineLibrary.Domain",
+      "ColorIndex": 3
+    },
+    "7dfb602f-2725-43ab-8ccc-8bcc82a05e21": {
+      "ProjectGuid": "7dfb602f-2725-43ab-8ccc-8bcc82a05e21",
+      "DisplayName": "OnlineLibrary.API",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
